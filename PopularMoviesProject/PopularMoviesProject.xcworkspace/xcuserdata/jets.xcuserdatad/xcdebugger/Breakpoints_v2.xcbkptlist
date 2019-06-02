@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Podfile"
+            timestampString = "575737552.2326061"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/DetailsViewController.swift"
+            timestampString = "576369786.2273231"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/DetailsViewController.swift"
+            timestampString = "576544339.573966"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/Movie.swift"
+            timestampString = "575797810.828826"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "Movie"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.Movie.VideoID.getter : Swift.String"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/Movie.swift"
+                  timestampString = "575797810.918218"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.Movie.VideoID.setter : Swift.String"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/Movie.swift"
+                  timestampString = "575797810.949573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.Movie.init () -&gt; PopularMoviesProject.Movie"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/Movie.swift"
+                  timestampString = "575797810.9610389"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/DetailsViewController.swift"
+            timestampString = "576544339.573966"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.DetailsViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/DetailsViewController.swift"
+                  timestampString = "576171126.267244"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2979">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.DetailsViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/DetailsViewController.swift"
+                  timestampString = "576171126.278266"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "66">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/DetailsViewController.swift"
+            timestampString = "576422520.814443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "authors"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.DetailsViewController.responseReviews.getter : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/DetailsViewController.swift"
+                  timestampString = "576171458.021032"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.DetailsViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PopularMoviesProject.DetailsViewController"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/DetailsViewController.swift"
+                  timestampString = "576171458.03045"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.DetailsViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PopularMoviesProject.DetailsViewController&gt;"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/DetailsViewController.swift"
+                  timestampString = "576171458.033442"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "357">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/MoviesTableViewController.swift"
+            timestampString = "576885576.983907"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "btnTopRated(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/MoviesTableViewController.swift"
+            timestampString = "576885576.983907"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "btnTopRated(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.MoviesTableViewController.btnTopRated (Any) -&gt; ()"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/MoviesTableViewController.swift"
+                  timestampString = "576439546.009266"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.MoviesTableViewController.(btnTopRated (Any) -&gt; ()).(closure #1)"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/MoviesTableViewController.swift"
+                  timestampString = "576439546.018458"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/MoviesTableViewController.swift"
+            timestampString = "576885576.983907"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "btnTopRated(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/DetailsViewController.swift"
+            timestampString = "576422520.814443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.DetailsViewController.tabelView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/DetailsViewController.swift"
+                  timestampString = "576422119.118505"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.DetailsViewController.tabelView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/DetailsViewController.swift"
+                  timestampString = "576422119.133769"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.DetailsViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PopularMoviesProject.DetailsViewController"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/DetailsViewController.swift"
+                  timestampString = "576422119.149196"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "435">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.DetailsViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PopularMoviesProject.DetailsViewController&gt;"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/DetailsViewController.swift"
+                  timestampString = "576422119.165272"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "335">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/FavoriteCollectionViewController.swift"
+            timestampString = "576507319.591989"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "FavoriteCollectionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.FavoriteCollectionViewController.movies.getter : Swift.Array&lt;PopularMoviesProject.Movie&gt;"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/FavoriteCollectionViewController.swift"
+                  timestampString = "576507499.787077"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.FavoriteCollectionViewController.init (collectionViewLayout : __ObjC.UICollectionViewLayout) -&gt; PopularMoviesProject.FavoriteCollectionViewController"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/FavoriteCollectionViewController.swift"
+                  timestampString = "576507499.804087"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.FavoriteCollectionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PopularMoviesProject.FavoriteCollectionViewController"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/FavoriteCollectionViewController.swift"
+                  timestampString = "576507499.809821"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.FavoriteCollectionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PopularMoviesProject.FavoriteCollectionViewController&gt;"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/FavoriteCollectionViewController.swift"
+                  timestampString = "576507499.81336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/UiGridViewController.swift"
+            timestampString = "576524162.186313"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.UiGridViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/UiGridViewController.swift"
+                  timestampString = "576524163.087383"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1261">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularMoviesProject.UiGridViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "PopularMoviesProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jets/Desktop/PopularMoviesProject/PopularMoviesProject/UiGridViewController.swift"
+                  timestampString = "576524163.110361"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/DetailsViewController.swift"
+            timestampString = "576868012.031216"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularMoviesProject/MoviesTableViewController.swift"
+            timestampString = "576885489.750216"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "MoviesTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
